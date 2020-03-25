@@ -1,0 +1,15 @@
+.llama-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery-item {
+    list-style: none;
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+img {
+    width: 300px;
+}
